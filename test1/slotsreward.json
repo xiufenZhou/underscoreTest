@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "rewardlevel": 1,
+    "quality": 1,
+    "multi": 500,
+    "rate": 0.0001,
+    "row1": "element001",
+    "row2": "element001",
+    "row3": "element001"
+  },
+  {
+    "id": 2,
+    "rewardlevel": 2,
+    "quality": 1,
+    "multi": 200,
+    "rate": 0.0002,
+    "row1": "element001",
+    "row2": "element001",
+    "row3": "element007"
+  },
+  {
+    "id": 3,
+    "rewardlevel": 3,
+    "quality": 1,
+    "multi": 100,
+    "rate": 0.0004,
+    "row1": "element001",
+    "row2": "element007",
+    "row3": "element007"
+  },
+  {
+    "id": 4,
+    "rewardlevel": 4,
+    "quality": 2,
+    "multi": 50,
+    "rate": 0.0013,
+    "row1": "element002",
+    "row2": "element002",
+    "row3": "element002"
+  },
+  {
+    "id": 5,
+    "rewardlevel": 5,
+    "quality": 2,
+    "multi": 10,
+    "rate": 0.012,
+    "row1": "element003",
+    "row2": "element003",
+    "row3": "element003"
+  },
+  {
+    "id": 6,
+    "rewardlevel": 6,
+    "quality": 3,
+    "multi": 3,
+    "rate": 0.042,
+    "row1": "element004",
+    "row2": "element004",
+    "row3": "element004"
+  },
+  {
+    "id": 7,
+    "rewardlevel": 7,
+    "quality": 3,
+    "multi": 2,
+    "rate": 0.081,
+    "row1": "element005",
+    "row2": "element005",
+    "row3": "element005"
+  },
+  {
+    "id": 8,
+    "rewardlevel": 8,
+    "quality": 3,
+    "multi": 1,
+    "rate": 0.2030,
+    "row1": "element006",
+    "row2": "element006",
+    "row3": "element006"
+  },
+  {
+    "id": 9,
+    "rewardlevel": 9,
+    "quality": 4,
+    "multi": 0,
+    "rate": 0.66,
+    "row1": "element007",
+    "row2": "element007",
+    "row3": "element007"
+  }
+]
